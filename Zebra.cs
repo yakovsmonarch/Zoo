@@ -1,8 +1,12 @@
 using System;
-class Zebra
+
+namespace gitSpase
 {
-	public Zebra
+	public class Zebra
 	{
-		Console.WriteLine("Marti");
+		public Zebra()
+		{
+			Console.WriteLine("Marti");
+		}
 	}
 }

@@ -1,10 +1,13 @@
 using System;
-class Zoo
+namespace gitSpase
 {
-	public static void Main()
+	public class Zoo
 	{
-		Console.WriteLine("Welcome Zoo!");
-		Zebra zebra = new Zebra();
+		public static void Main()
+		{
+			Console.WriteLine("Welcome Zoo!");
+			Zebra zebra = new Zebra();
+		}
+		
 	}
-	
 }
