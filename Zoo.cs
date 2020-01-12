@@ -8,6 +8,7 @@ namespace gitSpase
 			Console.WriteLine("Welcome Zoo!");
 			Zebra zebra = new Zebra();
 			Hippo hippo = new Hippo();
+			Lion lion = new Lion();
 		}
 		
 	}
